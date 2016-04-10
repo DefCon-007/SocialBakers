@@ -1,0 +1,3595 @@
+<!DOCTYPE html>
+<html version="HTML+RDFa 1.0" class="no-js">
+<head>
+    <meta property="og:site_name" content="Socialbakers.com">
+    <meta property="fb:page_id" content="164929129743">
+    <meta property="fb:admins" content="1053518352,713863314">
+    <meta property="fb:app_id" content="111353382239227">
+    <meta property="og:type" content="company">
+    <meta property="og:title" content="Statistics of the top Twitter accounts">
+    <meta property="og:image" content="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/og-images/statistic/statistic-default.png">
+    <meta property="og:url" content="http://www.socialbakers.com/statistics/twitter/profiles/">
+    <meta property="og:description" content="Take a look at the profiles that have the most ‘Followers’ and other profile statistics and metrics on Twitter. like .">
+<meta http-equiv="Content-Language" content="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Statistics of the top Twitter accounts | Socialbakers</title>
+<meta name="application-name" content="Socialbakers.com">
+<meta name="msapplication-starturl" content="http://www.socialbakers.com/">
+<meta name="msapplication-navbutton-color" content="#FFFFFF">
+<meta name="msapplication-tooltip" content="Social Media Marketing, Statistics &amp;amp; Monitoring Tools">
+<meta name="msapplication-TileColor" content="#8C1E55">
+<meta name="msapplication-TileImage" content="/cdn/apple-touch-icon-152x152.png">
+<meta name="author" content="Socialbakers">
+<meta name="robots" content="index,follow">
+<meta name="viewport" content="width=device-width, minimum-scale=1, maximum-scale=1">
+<meta name="description" content="Take a look at the profiles that have the most ‘Followers’ and other profile statistics and metrics on Twitter. like .">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@socialbakers">
+<meta name="twitter:creator" content="@socialbakers">
+<meta name="twitter:url" content="http://www.socialbakers.com/statistics/twitter/profiles/">
+<meta name="twitter:title" content="Statistics of the top Twitter accounts">
+<meta name="twitter:description" content="Take a look at the profiles that have the most ‘Followers’ and other profile statistics and metrics on Twitter. like .">
+<meta name="twitter:image" content="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/og-images/statistic/statistic-default.png">
+    <link href="http://cdn.socialbakers.com/www/static/build.3271935747/www/favicon.ico" rel="shortcut icon">
+    <link href="http://cdn.socialbakers.com/www/static/build.3271935747/www/favicon.ico" rel="icon">
+    <link href="/cdn/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-76x76.png" sizes="76x76" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-120x120.png" sizes="120x120" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-152x152.png" sizes="152x152" rel="apple-touch-icon">
+    <link href="/cdn/apple-touch-icon-152x152.png" rel="icon">
+    <link href="//fonts.googleapis.com/css?family=Roboto:400,100,500,300,900" media="all" type="text/css" rel="stylesheet">
+    <link href="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/css/style.css" media="all" type="text/css" rel="stylesheet">
+    <link href="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/css/rd-sync.css" media="all" type="text/css" rel="stylesheet">
+    <link href="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/css/print.css" media="print" type="text/css" rel="stylesheet">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/js/src/vendor/visualWebsiteOptimizer.js"></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+	googletag.defineSlot('/28095303/fb_pages_list_lower', [733, 192], 'div-gpt-ad-1361738328719-4').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/fb_pages_list_upper', [733, 192], 'div-gpt-ad-1361738328719-5').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/fb_us_state_detail', [733, 257], 'div-gpt-ad-1361738328719-6').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/google_plus_list_lower', [733, 227], 'div-gpt-ad-1361738328719-8').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/google_plus_list_upper', [733, 227], 'div-gpt-ad-1361738328719-9').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/hp_under_articles', [576, 223], 'div-gpt-ad-1361738328719-12').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/twitter_list_lower', [733, 192], 'div-gpt-ad-1361738328719-14').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/twitter_list_upper', [733, 192], 'div-gpt-ad-1361738328719-15').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/youtube_list_lower', [733, 192], 'div-gpt-ad-1361738328719-17').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/youtube_list_upper', [733, 192], 'div-gpt-ad-1361738328719-18').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/suggester_step3', [650, 192], 'div-gpt-ad-1374137685190-0').addService(googletag.pubads());
+	googletag.defineSlot('/28095303/fb_country_detail_analytics', [733, 192], 'div-gpt-ad-1380718449232-0').addService(googletag.pubads());
+	googletag.pubads().setTargeting("logged-in", "no");
+	googletag.pubads().collapseEmptyDivs();
+	googletag.enableServices();
+});
+</script><!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--></head>
+
+<body class=" statistics list not-logged color-green">
+
+	<script>
+	$(document).ready(function() {
+	    $.getScript("http://platform.linkedin.com/in.js?async=true", function success() {
+	        IN.init({
+	            api_key: "77ucnsn3grm54n"
+	        });
+	    });
+	});
+	</script>
+
+	<div id="fb-root"></div>
+	<script type="text/javascript">
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '111353382239227',
+          xfbml      : true,
+          version    : 'v2.1'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) { return; }
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
+	<script type="text/javascript">
+		if (typeof new Array().forEach !== "function") {
+			document.write('<script type="text/javascript" src="http:\/\/cdn.socialbakers.com\/www\/static\/build.3271935747\/www\/media\/js\/dist\/vendor\/es5-shim.js"><\/script>');
+		}
+	</script>
+
+		<script type="text/javascript">
+			var showMoreVersion = "withReplaceClass";
+		</script>
+	<script src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/js/dist/config"></script>
+	<script data-main="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/js/dist/load!platforms-list" src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/js/dist/vendor/require.js"></script>
+		<script type="text/javascript">
+			var loginPopupContent = {"default":{"id":"default","title":"Join the marketing experts & get priceless insights","bullets":["explore the <strong>latest trends<\/strong><br>in social media","get <strong>tips for improving<\/strong><br>your social media performance","download <strong>exclusive studies<\/strong>, <strong>reports<\/strong> and <strong>whitepapers<\/strong>"]}};
+		</script>
+
+
+	<script type="text/javascript">
+		var dataLayer = [{}];
+		function trackBannerClick(internalCampaign, eventLabel) {
+			eventLabel = eventLabel || window.location.href;
+			dataLayer.push( { 'event': 'ga.event', 'eventCategory': 'Banner', 'eventAction': internalCampaign, 'eventLabel': eventLabel} );
+		}
+	</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5CPVCV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+new Date().getTime(),event:'gtm.js' });var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5CPVCV');</script>
+<!-- End Google Tag Manager -->
+
+	<!-- ClickTale Top part -->
+	<script type="text/javascript">
+		var WRInitTime=(new Date()).getTime();
+	</script>
+	<!-- ClickTale end of Top part -->
+
+		<div class="cookies-bar">
+			<p>We use <strong>cookies</strong> to improve your experience on this website. By continuing to browse our site you agree to our use of <strong>cookies</strong>. <a href="/cookies">Find out more here</a>. <a href="#" class="close-cookies-bar">x</a></p>
+		</div>
+
+	<div class="page">
+
+		<header class="header">
+			<div class="in">
+				<h1><a onclick="_gaq.push(['_trackEvent', 'homepage - logo', this.href, location.href]);" href="/">Socialbakers</a></h1>
+				<a href="" class="nav-btn nav-btn-ico"><i class="nav-btn-hr-top"></i><i class="nav-btn-hr-center"></i><i class="nav-btn-hr-bottom"></i></a>
+				<a href="" class="nav-btn nav-btn-menu"><span>MENU</span></a>
+
+				<nav class="menu">
+					<ul>
+						<li class="color-green"><a href="/statistics/" class="act">Statistics</a></li>
+						<li class="color-blue"><a href="/products/">Products</a></li>
+						<li class="color-red"><a href="/blog/">Blog</a></li>
+						<li class="color-orange"><a href="/resources/">Resources</a></li>
+						<li class="color-pink"><a href="/company/">Company</a></li>
+					</ul>
+				</nav>
+
+
+				<div class="header-action">
+					<form action="/search" class="searched autocomplete" data-localization="{&quot;suggestPage&quot;:{&quot;facebook&quot;:&quot;Suggest Page&quot;,&quot;youtube&quot;:&quot;Suggest Channel&quot;,&quot;twitter&quot;:&quot;Suggest Profile&quot;,&quot;gplus&quot;:&quot;Suggest Profile&quot;},&quot;profilePage&quot;:&quot;&quot;,&quot;networkFanTitles&quot;:{&quot;twitter&quot;:&quot;Followers&quot;,&quot;facebook&quot;:&quot;Fans&quot;,&quot;gplus&quot;:&quot;Followers&quot;,&quot;youtube&quot;:&quot;Subscribers&quot;},&quot;suggesterLink&quot;:&quot;\/suggester&quot;,&quot;networkAccountTitles&quot;:{&quot;twitter&quot;:&quot;Profiles&quot;,&quot;facebook&quot;:&quot;Pages&quot;,&quot;gplus&quot;:&quot;Profiles&quot;,&quot;youtube&quot;:&quot;Channels&quot;}}">
+	<label for="searchbox" class="search">
+		<input id="searchbox" name="query" placeholder="Search ..." autocomplete="off">
+		<button type="submit">OK</button>
+	</label>
+	<div class="search-panel">
+		<div class="in-search-panel">
+			<div class="loader small"></div>
+			<ul class="acc-list"></ul>
+			<div class="more"><a href="/search">All Results</a></div>
+		</div>
+	</div>
+	<a href="" class="remove">remove</a>
+</form>
+<a href="" class="search-btn">search</a>
+
+						<a href="/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ftwitter%2Fprofiles%2F&amp;ref=www-fe-header" data-lightbox="login-lightbox" class="btn fb open-lightbox sub"><i></i> Client Login</a>
+				</div>
+
+			</div>
+		</header>
+
+			<div class="content">
+
+				<!--<h1 n:class="isset($titleClass)?$titleClass"><span>All Twitter Profiles</span></h1>-->
+
+
+				
+				
+				
+				
+
+				<div class="in">
+
+
+
+					
+					
+
+					
+					
+
+
+<div class="aside-menu aside-list ">
+    <ul>
+         <li>
+            <a class="home " href="/statistics/"><i>ALL</i></a>
+        </li>
+        <li>
+            <a href="/statistics/facebook/" class="fb"><i>Facebook</i></a>
+        </li>
+        <li>
+            <a href="/statistics/twitter/" class="tw act"><i>Twitter</i></a>
+        <ul class="aside-menu-hover">
+                <li><a class="overview " href="/statistics/twitter/">Overview</a>
+                </li>
+                <li><a class="all-pages act" href="/statistics/twitter/profiles/">All Profiles<i class="socialbakers-icons-before" data-icons-before="&#xe64a;"></i></a>
+        <ul class="aside-menu-hover">
+                <li><a class="brands " href="/statistics/twitter/profiles/brands/">Brands<i class="socialbakers-icons-before" data-icons-before="&#xe632;"></i></a>
+                </li>
+                <li><a class="celebrities " href="/statistics/twitter/profiles/celebrities/">Celebrities<i class="socialbakers-icons-before" data-icons-before="&#xe633;"></i></a>
+                </li>
+                <li><a class="community " href="/statistics/twitter/profiles/community/">Community<i class="socialbakers-icons-before" data-icons-before="&#xe635;"></i></a>
+                </li>
+                <li><a class="entertainment " href="/statistics/twitter/profiles/entertainment/">Entertainment<i class="socialbakers-icons-before" data-icons-before="&#xe63b;"></i></a>
+                </li>
+                <li><a class="media " href="/statistics/twitter/profiles/media/">Media<i class="socialbakers-icons-before" data-icons-before="&#xe648;"></i></a>
+                </li>
+                <li><a class="place " href="/statistics/twitter/profiles/place/">Place<i class="socialbakers-icons-before" data-icons-before="&#xe64c;"></i></a>
+                </li>
+                <li><a class="society " href="/statistics/twitter/profiles/society/">Society<i class="socialbakers-icons-before" data-icons-before="&#xe659;"></i></a>
+                </li>
+                <li><a class="sport " href="/statistics/twitter/profiles/sport/">Sport<i class="socialbakers-icons-before" data-icons-before="&#xe65a;"></i></a>
+                </li>
+        </ul>
+                </li>
+        </ul>
+        </li>
+        <li>
+            <a href="/statistics/google-plus/" class="gplus"><i>Google+</i></a>
+        </li>
+        <li>
+            <a href="/statistics/youtube/" class="yt"><i>YouTube</i></a>
+        </li>
+    </ul>
+    <i class="aside-hover"></i>
+</div>
+						<section class="section-920">
+						
+					
+
+<div class="page-head">
+	<h1><span>All Twitter Profiles</span></h1>
+
+<a href="#" class="share">
+	<span>
+		<i></i>
+	</span>
+	<div class="total-count">0 Shares</div>
+</a>
+<ul data="/statistics/twitter/profiles/" class="share-list">
+	<li class="fb"><a href="https://www.facebook.com/sharer.php?u=" class="fb" data-gaevent="{'category': 'share', 'action': 'button', 'label': 'facebook'}"><i></i> <span class="share-count">-</span> <strong>Share</strong></a></li>
+	<li class="tw"><a href="https://twitter.com/share?via=socialbakers&amp;related=janrezab,smediaminute&amp;text=Check+out+%23Twitter+stats+for+the+most+popular+Accounts+and+discover+how+they+got+there.&amp;url=" class="tw" data-gaevent="{'category': 'share', 'action': 'button', 'label': 'twitter'}"><i></i> <span class="share-count">-</span> <strong>Tweet</strong></a></li>
+	<li class="go"><a href="https://plus.google.com/share?url=" class="gplus" data-gaevent="{'category': 'share', 'action': 'button', 'label': 'google'}"><i></i> <span class="share-count">-</span> <strong>Share</strong></a></li>
+	<li class="linkedin"><a href="https://www.linkedin.com/shareArticle?mini=true&amp;title=Statistics+of+the+top+Twitter+accounts&amp;summary=Take+a+look+at+the+profiles+that+have+the+most+%E2%80%98Followers%E2%80%99+and+other+profile+statistics+and+metrics+on+Twitter.+like+.&amp;url=" class="linked" data-gaevent="{'category': 'share', 'action': 'button', 'label': 'linkedin'}"><i></i> <span class="share-count">-</span> <strong>Share</strong></a></li>
+</ul></div>
+
+<div class="reports-list-brands">
+	<article class="brands">
+<div class="multi-dropdown">
+	<a href="" class="btn-multi-dropdown">Select Industry</a>
+
+	<div class="breadcrumb-multi-dropdown">
+		<ul data-all-industries="All Industries"></ul>
+		<a href="" class="back">Back</a>
+	</div>
+
+	<div class="content-multi-dropdown">
+		<div class="multi-dropdown-list-1">
+			<ul class="multi-dropdown-list">
+				<li>
+
+						<a href="/statistics/twitter/profiles/brands/"
+							class="ico-brands arrow-right "
+							data-tag="brands"
+							rel="dropdown-brands">
+
+							Brands
+							<i class="socialbakers-icons-before" data-icons-before="&#xe632;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-brands multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/" class="" data-tag="brands">
+									
+									All Brands
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/accommodation/"
+							class=" "
+							data-tag="accommodation"
+							>
+
+							Accommodation
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/airlines/"
+							class=" "
+							data-tag="airlines"
+							>
+
+							Airlines
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/alcohol/"
+							class=" arrow-right "
+							data-tag="alcohol"
+							rel="dropdown-alcohol">
+
+							Alcohol
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-alcohol multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/alcohol/" class="" data-tag="alcohol">
+									
+									All Alcohol
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/alcohol/beer/"
+							class=" "
+							data-tag="beer"
+							>
+
+							Beer
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/alcohol/spirits/"
+							class=" "
+							data-tag="spirits"
+							>
+
+							Spirits
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/alcohol/wine/"
+							class=" "
+							data-tag="wine"
+							>
+
+							Wine
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/auto/"
+							class=" "
+							data-tag="auto"
+							>
+
+							Auto
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/beauty/"
+							class=" arrow-right "
+							data-tag="beauty"
+							rel="dropdown-beauty">
+
+							Beauty
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-beauty multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/beauty/" class="" data-tag="beauty">
+									
+									All Beauty
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/beauty/hygiene/"
+							class=" "
+							data-tag="hygiene"
+							>
+
+							Hygiene
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/beverages/"
+							class=" arrow-right "
+							data-tag="beverages"
+							rel="dropdown-beverages">
+
+							Beverages
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-beverages multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/beverages/" class="" data-tag="beverages">
+									
+									All Beverages
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/beverages/coffee-tea/"
+							class=" "
+							data-tag="coffee-tea"
+							>
+
+							Coffee &amp; Tea
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/beverages/soft-drink/"
+							class=" "
+							data-tag="soft-drink"
+							>
+
+							Soft Drink
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/beverages/water/"
+							class=" "
+							data-tag="water"
+							>
+
+							Water
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/conglomerate/"
+							class=" "
+							data-tag="conglomerate"
+							>
+
+							Conglomerate
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/ecommerce/"
+							class=" arrow-right "
+							data-tag="ecommerce"
+							rel="dropdown-ecommerce">
+
+							Ecommerce
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-ecommerce multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/ecommerce/" class="" data-tag="ecommerce">
+									
+									All Ecommerce
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/ecommerce/e-shop/"
+							class=" "
+							data-tag="e-shop"
+							>
+
+							E-Shop
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/ecommerce/travel-booking/"
+							class=" "
+							data-tag="travel-booking"
+							>
+
+							Travel Booking
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/"
+							class=" arrow-right "
+							data-tag="electronics"
+							rel="dropdown-electronics">
+
+							Electronics
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-electronics multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/electronics/" class="" data-tag="electronics">
+									
+									All Electronics
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/appliance/"
+							class=" "
+							data-tag="appliance"
+							>
+
+							Appliance
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/audio/"
+							class=" "
+							data-tag="audio"
+							>
+
+							Audio
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/camera/"
+							class=" "
+							data-tag="camera"
+							>
+
+							Camera
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/computer/"
+							class=" "
+							data-tag="computer"
+							>
+
+							Computer
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/gaming-console/"
+							class=" "
+							data-tag="gaming-console"
+							>
+
+							Gaming Console
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/electronics/phone/"
+							class=" "
+							data-tag="phone"
+							>
+
+							Phone
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fmcg-corporate/"
+							class=" "
+							data-tag="fmcg-corporate"
+							>
+
+							FMCG Corporate
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fmcg-food/"
+							class=" arrow-right "
+							data-tag="fmcg-food"
+							rel="dropdown-fmcg-food">
+
+							FMCG Food
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-fmcg-food multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/fmcg-food/" class="" data-tag="fmcg-food">
+									
+									All FMCG Food
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fmcg-food/baby-food/"
+							class=" "
+							data-tag="baby-food"
+							>
+
+							Baby Food
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fmcg-food/confectionery/"
+							class=" "
+							data-tag="confectionery"
+							>
+
+							Confectionery
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fmcg-food/dairy/"
+							class=" "
+							data-tag="dairy"
+							>
+
+							Dairy
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fashion/"
+							class=" arrow-right "
+							data-tag="fashion"
+							rel="dropdown-fashion">
+
+							Fashion
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-fashion multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/fashion/" class="" data-tag="fashion">
+									
+									All Fashion
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fashion/accessories/"
+							class=" "
+							data-tag="accessories"
+							>
+
+							Accessories
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fashion/clothing/"
+							class=" "
+							data-tag="clothing"
+							>
+
+							Clothing
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/fashion/jewelry/"
+							class=" "
+							data-tag="jewelry"
+							>
+
+							Jewelry
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/finance/"
+							class=" arrow-right "
+							data-tag="finance"
+							rel="dropdown-finance">
+
+							Finance
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-finance multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/finance/" class="" data-tag="finance">
+									
+									All Finance
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/finance/bank/"
+							class=" "
+							data-tag="bank"
+							>
+
+							Bank
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/finance/insurance/"
+							class=" "
+							data-tag="insurance"
+							>
+
+							Insurance
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/finance/payment/"
+							class=" "
+							data-tag="payment"
+							>
+
+							Payment
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/gambling/"
+							class=" "
+							data-tag="gambling"
+							>
+
+							Gambling
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/healthcare/"
+							class=" "
+							data-tag="healthcare"
+							>
+
+							HealthCare
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/home-living/"
+							class=" arrow-right "
+							data-tag="home-living"
+							rel="dropdown-home-living">
+
+							Home &amp; Living
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-home-living multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/home-living/" class="" data-tag="home-living">
+									
+									All Home &amp; Living
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/home-living/children/"
+							class=" "
+							data-tag="children"
+							>
+
+							Children
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/home-living/furniture/"
+							class=" "
+							data-tag="furniture"
+							>
+
+							Furniture
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/home-living/home-maintenance/"
+							class=" "
+							data-tag="home-maintenance"
+							>
+
+							Home maintenance
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/home-living/toys-games/"
+							class=" "
+							data-tag="toys-games"
+							>
+
+							Toys &amp; Games
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/home-living/utensils/"
+							class=" "
+							data-tag="utensils"
+							>
+
+							Utensils
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/household-goods/"
+							class=" arrow-right "
+							data-tag="household-goods"
+							rel="dropdown-household-goods">
+
+							Household Goods
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-household-goods multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/household-goods/" class="" data-tag="household-goods">
+									
+									All Household Goods
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/household-goods/chemicals/"
+							class=" "
+							data-tag="chemicals"
+							>
+
+							Chemicals
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/household-goods/pets/"
+							class=" "
+							data-tag="pets"
+							>
+
+							Pets
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/household-goods/stationery/"
+							class=" "
+							data-tag="stationery"
+							>
+
+							Stationery
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/industrial/"
+							class=" "
+							data-tag="industrial"
+							>
+
+							Industrial
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/retail/"
+							class=" "
+							data-tag="retail"
+							>
+
+							Retail
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/retail-food/"
+							class=" "
+							data-tag="retail-food"
+							>
+
+							Retail Food
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/services/"
+							class=" arrow-right "
+							data-tag="services"
+							rel="dropdown-services">
+
+							Services
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-services multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/services/" class="" data-tag="services">
+									
+									All Services
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/services/agency/"
+							class=" "
+							data-tag="agency"
+							>
+
+							Agency
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/services/housing/"
+							class=" "
+							data-tag="housing"
+							>
+
+							Housing
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/services/mail-shipping/"
+							class=" "
+							data-tag="mail-shipping"
+							>
+
+							Mail &amp; Shipping
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/services/transportation/"
+							class=" "
+							data-tag="transportation"
+							>
+
+							Transportation
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/services/wellness/"
+							class=" "
+							data-tag="wellness"
+							>
+
+							Wellness
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/software/"
+							class=" arrow-right "
+							data-tag="software"
+							rel="dropdown-software">
+
+							Software
+							
+						</a>
+					<div
+						class="multi-dropdown-list-3 dropdown-software multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/brands/software/" class="" data-tag="software">
+									
+									All Software
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/software/game-developer/"
+							class=" "
+							data-tag="game-developer"
+							>
+
+							Game developer
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/sporting-goods/"
+							class=" "
+							data-tag="sporting-goods"
+							>
+
+							Sporting Goods
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/telecom/"
+							class=" "
+							data-tag="telecom"
+							>
+
+							Telecom
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/brands/travel/"
+							class=" "
+							data-tag="travel"
+							>
+
+							Travel
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/"
+							class="ico-celebrities arrow-right "
+							data-tag="celebrities"
+							rel="dropdown-celebrities">
+
+							Celebrities
+							<i class="socialbakers-icons-before" data-icons-before="&#xe633;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-celebrities multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/celebrities/" class="" data-tag="celebrities">
+									
+									All Celebrities
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/actor/"
+							class=" "
+							data-tag="actor"
+							>
+
+							Actor
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/artist/"
+							class=" "
+							data-tag="artist"
+							>
+
+							Artist
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/broadcast-star/"
+							class=" "
+							data-tag="broadcast-star"
+							>
+
+							Broadcast Star
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/disc-jockey/"
+							class=" "
+							data-tag="disc-jockey"
+							>
+
+							Disc Jockey
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/fashion-star/"
+							class=" "
+							data-tag="fashion-star"
+							>
+
+							Fashion Star
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/musician/"
+							class=" "
+							data-tag="musician"
+							>
+
+							Musician
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/singer/"
+							class=" "
+							data-tag="singer"
+							>
+
+							Singer
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/sport-star/"
+							class=" "
+							data-tag="sport-star"
+							>
+
+							Sport Star
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/celebrities/writer/"
+							class=" "
+							data-tag="writer"
+							>
+
+							Writer
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/community/"
+							class="ico-community arrow-right "
+							data-tag="community"
+							rel="dropdown-community">
+
+							Community
+							<i class="socialbakers-icons-before" data-icons-before="&#xe635;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-community multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/community/" class="" data-tag="community">
+									
+									All Community
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/auto-interest/"
+							class=" "
+							data-tag="auto-interest"
+							>
+
+							Auto Interest
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/culture/"
+							class=" "
+							data-tag="culture"
+							>
+
+							Culture
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/erotic/"
+							class=" "
+							data-tag="erotic"
+							>
+
+							Erotic
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/film/"
+							class=" "
+							data-tag="film"
+							>
+
+							Film
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/fun/"
+							class=" "
+							data-tag="fun"
+							>
+
+							Fun
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/hobbies/"
+							class=" "
+							data-tag="hobbies"
+							>
+
+							Hobbies
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/life-style/"
+							class=" "
+							data-tag="life-style"
+							>
+
+							Life Style
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/music/"
+							class=" "
+							data-tag="music"
+							>
+
+							Music
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/personal/"
+							class=" "
+							data-tag="personal"
+							>
+
+							Personal
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/political/"
+							class=" "
+							data-tag="political"
+							>
+
+							Political
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/religion/"
+							class=" "
+							data-tag="religion"
+							>
+
+							Religion
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/sport-interest/"
+							class=" "
+							data-tag="sport-interest"
+							>
+
+							Sport Interest
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/community/wikipedia/"
+							class=" "
+							data-tag="wikipedia"
+							>
+
+							Wikipedia
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/"
+							class="ico-entertainment arrow-right "
+							data-tag="entertainment"
+							rel="dropdown-entertainment">
+
+							Entertainment
+							<i class="socialbakers-icons-before" data-icons-before="&#xe63b;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-entertainment multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/entertainment/" class="" data-tag="entertainment">
+									
+									All Entertainment
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/apps/"
+							class=" "
+							data-tag="apps"
+							>
+
+							Apps
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/books/"
+							class=" "
+							data-tag="books"
+							>
+
+							Books
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/broadcast-show/"
+							class=" "
+							data-tag="broadcast-show"
+							>
+
+							Broadcast Show
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/computer-game/"
+							class=" "
+							data-tag="computer-game"
+							>
+
+							Computer Game
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/event/"
+							class=" "
+							data-tag="event"
+							>
+
+							Event
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/fictional-character/"
+							class=" "
+							data-tag="fictional-character"
+							>
+
+							Fictional Character
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/film-industry/"
+							class=" "
+							data-tag="film-industry"
+							>
+
+							Film Industry
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/music-industry/"
+							class=" "
+							data-tag="music-industry"
+							>
+
+							Music Industry
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/entertainment/online-show/"
+							class=" "
+							data-tag="online-show"
+							>
+
+							Online Show
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/media/"
+							class="ico-media arrow-right "
+							data-tag="media"
+							rel="dropdown-media">
+
+							Media
+							<i class="socialbakers-icons-before" data-icons-before="&#xe648;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-media multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/media/" class="" data-tag="media">
+									
+									All Media
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/blog/"
+							class=" "
+							data-tag="blog"
+							>
+
+							Blog
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/media-house/"
+							class=" "
+							data-tag="media-house"
+							>
+
+							Media House
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/news/"
+							class=" "
+							data-tag="news"
+							>
+
+							News
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/online-media/"
+							class=" "
+							data-tag="online-media"
+							>
+
+							Online Media
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/printed-media/"
+							class=" "
+							data-tag="printed-media"
+							>
+
+							Printed Media
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/radio-media/"
+							class=" "
+							data-tag="radio-media"
+							>
+
+							Radio Media
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/social-media/"
+							class=" "
+							data-tag="social-media"
+							>
+
+							Social Media
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/tv-channels/"
+							class=" "
+							data-tag="tv-channels"
+							>
+
+							TV Channels
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/media/web-portal/"
+							class=" "
+							data-tag="web-portal"
+							>
+
+							Web Portal
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/place/"
+							class="ico-place arrow-right "
+							data-tag="place"
+							rel="dropdown-place">
+
+							Place
+							<i class="socialbakers-icons-before" data-icons-before="&#xe64c;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-place multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/place/" class="" data-tag="place">
+									
+									All Place
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/airport/"
+							class=" "
+							data-tag="airport"
+							>
+
+							Airport
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/city/"
+							class=" "
+							data-tag="city"
+							>
+
+							City
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/country/"
+							class=" "
+							data-tag="country"
+							>
+
+							Country
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/cultural-center/"
+							class=" "
+							data-tag="cultural-center"
+							>
+
+							Cultural center
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/medical-center/"
+							class=" "
+							data-tag="medical-center"
+							>
+
+							Medical Center
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/night-life/"
+							class=" "
+							data-tag="night-life"
+							>
+
+							Night Life
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/restaurant-cafe/"
+							class=" "
+							data-tag="restaurant-cafe"
+							>
+
+							Restaurant &amp; Cafe
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/place/shopping-center/"
+							class=" "
+							data-tag="shopping-center"
+							>
+
+							Shopping center
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/society/"
+							class="ico-society arrow-right "
+							data-tag="society"
+							rel="dropdown-society">
+
+							Society
+							<i class="socialbakers-icons-before" data-icons-before="&#xe659;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-society multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/society/" class="" data-tag="society">
+									
+									All Society
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/csr/"
+							class=" "
+							data-tag="csr"
+							>
+
+							CSR
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/conference/"
+							class=" "
+							data-tag="conference"
+							>
+
+							Conference
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/education/"
+							class=" "
+							data-tag="education"
+							>
+
+							Education
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/governmental/"
+							class=" "
+							data-tag="governmental"
+							>
+
+							Governmental
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/ngo/"
+							class=" "
+							data-tag="ngo"
+							>
+
+							NGO
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/politics/"
+							class=" "
+							data-tag="politics"
+							>
+
+							Politics
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/professional-association/"
+							class=" "
+							data-tag="professional-association"
+							>
+
+							Professional Association
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/society/science/"
+							class=" "
+							data-tag="science"
+							>
+
+							Science
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+				<li>
+
+						<a href="/statistics/twitter/profiles/sport/"
+							class="ico-sport arrow-right "
+							data-tag="sport"
+							rel="dropdown-sport">
+
+							Sport
+							<i class="socialbakers-icons-before" data-icons-before="&#xe65a;"></i>
+						</a>
+
+					<div
+						class="multi-dropdown-list-2 dropdown-sport multi-dropdown-list-div">
+						<ul class="multi-dropdown-list">
+							<li class="multi-dropdown-all">
+								<a href="/statistics/twitter/profiles/sport/" class="" data-tag="sport">
+									
+									All Sport
+								</a>
+							</li>
+
+							<li>
+
+						<a href="/statistics/twitter/profiles/sport/sport-club/"
+							class=" "
+							data-tag="sport-club"
+							>
+
+							Sport Club
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/sport/sport-event/"
+							class=" "
+							data-tag="sport-event"
+							>
+
+							Sport Event
+							
+						</a>
+							</li>
+							<li>
+
+						<a href="/statistics/twitter/profiles/sport/sport-organization/"
+							class=" "
+							data-tag="sport-organization"
+							>
+
+							Sport Organization
+							
+						</a>
+							</li>
+
+						</ul>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+</div>		<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/reports/list/default.png" alt="" onerror="this.src=&quot;http:\/\/cdn.socialbakers.com\/www\/static\/build.3271935747\/www\/media\/img\/reports\/list\/brands.png&quot;">
+	</article>
+
+	<span class="hr hr-arrow">
+		<i>in</i>
+	</span>
+	
+	<article class="country">
+<form action="/statistics/twitter/profiles/?do=tagsCloud-countries-form-submit" method="post" id="frm-tagsCloud-countries-form" data-gaevent="{&quot;category&quot;:&quot;selects&quot;,&quot;action&quot;:&quot;country&quot;,&quot;label&quot;:&quot;twitter&quot;}" class=" ga-event">	<select class="chzn-select" name="item" id="frmform-item" data-nette-empty-value=""><option value="" selected>Select Country</option><option value="afghanistan">Afghanistan</option><option value="aland-islands">Aland Islands</option><option value="albania">Albania</option><option value="algeria">Algeria</option><option value="american-samoa">American Samoa</option><option value="andorra">Andorra</option><option value="angola">Angola</option><option value="anguilla">Anguilla</option><option value="antarctica" disabled>Antarctica</option><option value="antigua-and-barbuda">Antigua and Barbuda</option><option value="argentina">Argentina</option><option value="armenia">Armenia</option><option value="aruba">Aruba</option><option value="australia">Australia</option><option value="austria">Austria</option><option value="azerbaijan">Azerbaijan</option><option value="bahamas">Bahamas</option><option value="bahrain">Bahrain</option><option value="bangladesh">Bangladesh</option><option value="barbados">Barbados</option><option value="belarus">Belarus</option><option value="belgium">Belgium</option><option value="belize">Belize</option><option value="benin">Benin</option><option value="bermuda">Bermuda</option><option value="bhutan">Bhutan</option><option value="bolivia">Bolivia</option><option value="bonaire-saint-eustatius-and-saba">Bonaire, Saint Eustatius and Saba </option><option value="bosnia-and-herzegovina">Bosnia and Herzegovina</option><option value="botswana">Botswana</option><option value="bouvet-island" disabled>Bouvet Island</option><option value="brazil">Brazil</option><option value="british-indian-ocean-territory">British Indian Ocean Territory</option><option value="british-virgin-islands">British Virgin Islands</option><option value="brunei">Brunei</option><option value="bulgaria">Bulgaria</option><option value="burkina-faso">Burkina Faso</option><option value="burundi" disabled>Burundi</option><option value="cambodia">Cambodia</option><option value="cameroon">Cameroon</option><option value="canada">Canada</option><option value="cape-verde">Cape Verde</option><option value="cayman-islands">Cayman Islands</option><option value="central-african-republic">Central African Republic</option><option value="chad">Chad</option><option value="chile">Chile</option><option value="china">China</option><option value="christmas-island" disabled>Christmas Island</option><option value="cocos-islands">Cocos Islands</option><option value="colombia">Colombia</option><option value="comoros" disabled>Comoros</option><option value="cook-islands" disabled>Cook Islands</option><option value="costa-rica">Costa Rica</option><option value="croatia">Croatia</option><option value="cuba">Cuba</option><option value="curacao">Curacao</option><option value="cyprus">Cyprus</option><option value="czech-republic">Czech Republic</option><option value="democratic-republic-of-the-congo">Democratic Republic of the Congo</option><option value="denmark">Denmark</option><option value="djibouti">Djibouti</option><option value="dominica">Dominica</option><option value="dominican-republic">Dominican Republic</option><option value="east-timor">East Timor</option><option value="ecuador">Ecuador</option><option value="egypt">Egypt</option><option value="el-salvador">El Salvador</option><option value="equatorial-guinea">Equatorial Guinea</option><option value="eritrea">Eritrea</option><option value="estonia">Estonia</option><option value="ethiopia">Ethiopia</option><option value="falkland-islands">Falkland Islands</option><option value="faroe-islands">Faroe Islands</option><option value="fiji">Fiji</option><option value="finland">Finland</option><option value="france">France</option><option value="french-guiana">French Guiana</option><option value="french-polynesia">French Polynesia</option><option value="french-southern-territories" disabled>French Southern Territories</option><option value="global">GLOBAL</option><option value="gabon">Gabon</option><option value="gambia">Gambia</option><option value="georgia">Georgia</option><option value="germany">Germany</option><option value="ghana">Ghana</option><option value="gibraltar">Gibraltar</option><option value="greece">Greece</option><option value="greenland">Greenland</option><option value="grenada">Grenada</option><option value="guadeloupe">Guadeloupe</option><option value="guam">Guam</option><option value="guatemala">Guatemala</option><option value="guernsey" disabled>Guernsey</option><option value="guinea">Guinea</option><option value="guinea-bissau">Guinea-Bissau</option><option value="guyana">Guyana</option><option value="haiti">Haiti</option><option value="heard-island-and-mcdonald-islands" disabled>Heard Island and McDonald Islands</option><option value="honduras">Honduras</option><option value="hong-kong">Hong Kong</option><option value="hungary">Hungary</option><option value="iceland">Iceland</option><option value="india">India</option><option value="indonesia">Indonesia</option><option value="iran">Iran</option><option value="iraq">Iraq</option><option value="ireland">Ireland</option><option value="isle-of-man">Isle of Man</option><option value="israel">Israel</option><option value="italy">Italy</option><option value="ivory-coast">Ivory Coast</option><option value="jamaica">Jamaica</option><option value="japan">Japan</option><option value="jersey">Jersey</option><option value="jordan">Jordan</option><option value="kazakhstan">Kazakhstan</option><option value="kenya">Kenya</option><option value="kiribati" disabled>Kiribati</option><option value="kosovo">Kosovo</option><option value="kuwait">Kuwait</option><option value="kyrgyzstan">Kyrgyzstan</option><option value="laos">Laos</option><option value="latvia">Latvia</option><option value="lebanon">Lebanon</option><option value="lesotho" disabled>Lesotho</option><option value="liberia">Liberia</option><option value="libya">Libya</option><option value="liechtenstein">Liechtenstein</option><option value="lithuania">Lithuania</option><option value="luxembourg">Luxembourg</option><option value="macao">Macao</option><option value="macedonia">Macedonia</option><option value="madagascar">Madagascar</option><option value="malawi">Malawi</option><option value="malaysia">Malaysia</option><option value="maldives">Maldives</option><option value="mali">Mali</option><option value="malta">Malta</option><option value="marshall-islands" disabled>Marshall Islands</option><option value="martinique">Martinique</option><option value="mauritania">Mauritania</option><option value="mauritius">Mauritius</option><option value="mayotte" disabled>Mayotte</option><option value="mexico">Mexico</option><option value="micronesia">Micronesia</option><option value="moldova">Moldova</option><option value="monaco">Monaco</option><option value="mongolia">Mongolia</option><option value="montenegro">Montenegro</option><option value="montserrat">Montserrat</option><option value="morocco">Morocco</option><option value="mozambique">Mozambique</option><option value="myanmar">Myanmar</option><option value="namibia">Namibia</option><option value="nauru">Nauru</option><option value="nepal">Nepal</option><option value="netherlands">Netherlands</option><option value="netherlands-antilles">Netherlands Antilles</option><option value="new-caledonia">New Caledonia</option><option value="new-zealand">New Zealand</option><option value="nicaragua">Nicaragua</option><option value="niger">Niger</option><option value="nigeria">Nigeria</option><option value="niue" disabled>Niue</option><option value="norfolk-island" disabled>Norfolk Island</option><option value="north-korea">North Korea</option><option value="northern-mariana-islands">Northern Mariana Islands</option><option value="norway">Norway</option><option value="oman">Oman</option><option value="pakistan">Pakistan</option><option value="palau" disabled>Palau</option><option value="palestinian-territory">Palestinian Territory</option><option value="panama">Panama</option><option value="papua-new-guinea">Papua New Guinea</option><option value="paraguay">Paraguay</option><option value="peru">Peru</option><option value="philippines">Philippines</option><option value="pitcairn" disabled>Pitcairn</option><option value="poland">Poland</option><option value="portugal">Portugal</option><option value="puerto-rico">Puerto Rico</option><option value="qatar">Qatar</option><option value="republic-of-the-congo">Republic of the Congo</option><option value="reunion">Reunion</option><option value="romania">Romania</option><option value="russia">Russia</option><option value="rwanda">Rwanda</option><option value="saint-barthelemy" disabled>Saint Barthelemy</option><option value="saint-helena" disabled>Saint Helena</option><option value="saint-kitts-and-nevis">Saint Kitts and Nevis</option><option value="saint-lucia">Saint Lucia</option><option value="saint-martin">Saint Martin</option><option value="saint-pierre-and-miquelon" disabled>Saint Pierre and Miquelon</option><option value="saint-vincent-and-the-grenadines">Saint Vincent and the Grenadines</option><option value="samoa">Samoa</option><option value="san-marino" disabled>San Marino</option><option value="sao-tome-and-principe">Sao Tome and Principe</option><option value="saudi-arabia">Saudi Arabia</option><option value="senegal">Senegal</option><option value="serbia">Serbia</option><option value="seychelles">Seychelles</option><option value="sierra-leone">Sierra Leone</option><option value="singapore">Singapore</option><option value="sint-maarten" disabled>Sint Maarten</option><option value="slovakia">Slovakia</option><option value="slovenia">Slovenia</option><option value="solomon-islands" disabled>Solomon Islands</option><option value="somalia">Somalia</option><option value="south-africa">South Africa</option><option value="south-georgia-and-the-south-sandwich-islands" disabled>South Georgia and the South Sandwich Islands</option><option value="south-korea">South Korea</option><option value="south-sudan" disabled>South Sudan</option><option value="spain">Spain</option><option value="sri-lanka">Sri Lanka</option><option value="sudan">Sudan</option><option value="suriname">Suriname</option><option value="svalbard-and-jan-mayen" disabled>Svalbard and Jan Mayen</option><option value="swaziland">Swaziland</option><option value="sweden">Sweden</option><option value="switzerland">Switzerland</option><option value="syria">Syria</option><option value="taiwan">Taiwan</option><option value="tajikistan">Tajikistan</option><option value="tanzania">Tanzania</option><option value="thailand">Thailand</option><option value="togo">Togo</option><option value="tokelau">Tokelau</option><option value="tonga">Tonga</option><option value="trinidad-and-tobago">Trinidad and Tobago</option><option value="tunisia">Tunisia</option><option value="turkey">Turkey</option><option value="turkmenistan" disabled>Turkmenistan</option><option value="turks-and-caicos-islands">Turks and Caicos Islands</option><option value="tuvalu" disabled>Tuvalu</option><option value="u-s-virgin-islands">U.S. Virgin Islands</option><option value="uganda">Uganda</option><option value="ukraine">Ukraine</option><option value="united-arab-emirates">United Arab Emirates</option><option value="united-kingdom">United Kingdom</option><option value="united-states">United States</option><option value="united-states-minor-outlying-islands" disabled>United States Minor Outlying Islands</option><option value="uruguay">Uruguay</option><option value="uzbekistan">Uzbekistan</option><option value="vanuatu">Vanuatu</option><option value="vatican">Vatican</option><option value="venezuela">Venezuela</option><option value="vietnam">Vietnam</option><option value="wallis-and-futuna" disabled>Wallis and Futuna</option><option value="western-sahara" disabled>Western Sahara</option><option value="yemen">Yemen</option><option value="zambia">Zambia</option><option value="zimbabwe">Zimbabwe</option></select>
+<div><!--[if IE]><input type=IEbug disabled style="display:none"><![endif]--></div>
+</form>
+		<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/reports-list-country-brands.png" alt="">
+			</article>
+	 </div>
+		<h2>Largest Audience</h2>
+	<div class="three-list top-fans-stats">
+		<div class="item">
+			
+			<a href="/statistics/twitter/profiles/detail/21447363-katyperry" class="acc-placeholder-img">
+				<h3><span class="show-tooltip" data-tooltip="KATY PERRY">KATY PERRY
+				</span></h3>
+				<div class="top-fans-stats-img">
+					<div class="placeholder-img placeholder-img-90"><img src="http://pbs.twimg.com/profile_images/682895129724600321/8dfQK5e__reasonably_small.jpg" alt=""><i></i></div>
+					<div class="img"><img src="https://pbs.twimg.com/profile_banners/21447363/1451649861" alt="KATY PERRY" class="head-img twitter"></div>
+				</div>
+			</a>
+						<p class="small"><strong>Total followers</strong></p>
+			<strong class="fans-count">84&nbsp;029&nbsp;757</strong>
+
+		</div>
+		<div class="item">
+			
+			<a href="/statistics/twitter/profiles/detail/27260086-justinbieber" class="acc-placeholder-img">
+				<h3><span class="show-tooltip" data-tooltip="Justin Bieber">Justin Bieber
+				</span></h3>
+				<div class="top-fans-stats-img">
+					<div class="placeholder-img placeholder-img-90"><img src="http://pbs.twimg.com/profile_images/652596362073272320/Zv6K-clv_reasonably_small.jpg" alt=""><i></i></div>
+					<div class="img"><img src="https://pbs.twimg.com/profile_banners/27260086/1447387637" alt="Justin Bieber" class="head-img twitter"></div>
+				</div>
+			</a>
+						<p class="small"><strong>Total followers</strong></p>
+			<strong class="fans-count">76&nbsp;693&nbsp;658</strong>
+
+		</div>
+		<div class="item">
+			
+			<a href="/statistics/twitter/profiles/detail/17919972-taylorswift13" class="acc-placeholder-img">
+				<h3><span class="show-tooltip" data-tooltip="Taylor Swift">Taylor Swift
+				</span></h3>
+				<div class="top-fans-stats-img">
+					<div class="placeholder-img placeholder-img-90"><img src="http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_reasonably_small.jpeg" alt=""><i></i></div>
+					<div class="img"><img src="https://pbs.twimg.com/profile_banners/17919972/1409286315" alt="Taylor Swift" class="head-img twitter"></div>
+				</div>
+			</a>
+						<p class="small"><strong>Total followers</strong></p>
+			<strong class="fans-count">72&nbsp;463&nbsp;488</strong>
+
+		</div>
+	</div>
+
+<div class="esi-debug-info" id="esi395a2544" data-timestamp="1457414991" style="display:none;"></div>
+
+<article id="top-growings">
+	<div class="form-head form-head-middle">
+		<h2>Fastest-Growing Profiles</h2>
+		<div class="form-select-type form-head-switcher-select">
+			<select class="select-interval" data-placeholder="1">
+				<option value="1">
+					Last Day
+				</option>
+				<option value="2">
+					Last Week
+				</option>
+				<option value="3">
+					Last Month
+				</option>
+			</select>
+		</div>
+	</div>
+		<ul class="graph-growing-list block-1 items-5"
+			>
+
+			<li>
+				<a href="/statistics/twitter/profiles/detail/17357018-heartbrklambo"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/658665293779181568/gUyCEYtI_reasonably_small.jpg" alt="Heartbreak Lambo" /><i></i>
+						<span class="chart" data-percent="100"></span>
+					</div>
+					<h3><span><abbr data-tooltip="Heartbreak Lambo" class="show-tooltip">Heartbreak…</abbr></span></h3>
+				</a>
+				<strong>
+					+274 492 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/25365536-kimkardashian"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/646913349091897344/PhCn-7Cl_reasonably_small.jpg" alt="Kim Kardashian West" /><i></i>
+						<span class="chart" data-percent="31.350276146481"></span>
+					</div>
+					<h3><span><abbr data-tooltip="Kim Kardashian West" class="show-tooltip">Kim Kardashian…</abbr></span></h3>
+				</a>
+				<strong>
+					+86 054 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/21447363-katyperry"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/682895129724600321/8dfQK5e__reasonably_small.jpg" alt="KATY PERRY" /><i></i>
+						<span class="chart" data-percent="19.824257173251"></span>
+					</div>
+					<h3><span>KATY PERRY</span></h3>
+				</a>
+				<strong>
+					+54 416 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/27260086-justinbieber"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/652596362073272320/Zv6K-clv_reasonably_small.jpg" alt="Justin Bieber" /><i></i>
+						<span class="chart" data-percent="19.013304577183"></span>
+					</div>
+					<h3><span>Justin Bieber</span></h3>
+				</a>
+				<strong>
+					+52 190 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/17919972-taylorswift13"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_reasonably_small.jpeg" alt="Taylor Swift" /><i></i>
+						<span class="chart" data-percent="18.437331506929"></span>
+					</div>
+					<h3><span>Taylor Swift</span></h3>
+				</a>
+				<strong>
+					+50 609 Followers
+				</strong>
+
+			</li>
+		</ul>
+		<ul class="graph-growing-list block-2 items-5"
+			style="display: none">
+
+			<li>
+				<a href="/statistics/twitter/profiles/detail/27260086-justinbieber"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/652596362073272320/Zv6K-clv_reasonably_small.jpg" alt="Justin Bieber" /><i></i>
+						<span class="chart" data-percent="100"></span>
+					</div>
+					<h3><span>Justin Bieber</span></h3>
+				</a>
+				<strong>
+					+404 420 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/21447363-katyperry"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/682895129724600321/8dfQK5e__reasonably_small.jpg" alt="KATY PERRY" /><i></i>
+						<span class="chart" data-percent="93.12027100539"></span>
+					</div>
+					<h3><span>KATY PERRY</span></h3>
+				</a>
+				<strong>
+					+376 597 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/17919972-taylorswift13"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_reasonably_small.jpeg" alt="Taylor Swift" /><i></i>
+						<span class="chart" data-percent="92.638346273676"></span>
+					</div>
+					<h3><span>Taylor Swift</span></h3>
+				</a>
+				<strong>
+					+374 648 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/15846407-theellenshow"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/699273643075850240/hYP6fe4h_reasonably_small.png" alt="Ellen DeGeneres" /><i></i>
+						<span class="chart" data-percent="79.882053310914"></span>
+					</div>
+					<h3><span>Ellen DeGeneres</span></h3>
+				</a>
+				<strong>
+					+323 059 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/14230524-ladygaga"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/704429905522483201/KAe6KHhw_reasonably_small.jpg" alt="Lady Gaga" /><i></i>
+						<span class="chart" data-percent="77.172741209634"></span>
+					</div>
+					<h3><span>Lady Gaga</span></h3>
+				</a>
+				<strong>
+					+312 102 Followers
+				</strong>
+
+			</li>
+		</ul>
+		<ul class="graph-growing-list block-3 items-5"
+			style="display: none">
+
+			<li>
+				<a href="/statistics/twitter/profiles/detail/27260086-justinbieber"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/652596362073272320/Zv6K-clv_reasonably_small.jpg" alt="Justin Bieber" /><i></i>
+						<span class="chart" data-percent="100"></span>
+					</div>
+					<h3><span>Justin Bieber</span></h3>
+				</a>
+				<strong>
+					+1 822 146 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/21447363-katyperry"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/682895129724600321/8dfQK5e__reasonably_small.jpg" alt="KATY PERRY" /><i></i>
+						<span class="chart" data-percent="99.877397310644"></span>
+					</div>
+					<h3><span>KATY PERRY</span></h3>
+				</a>
+				<strong>
+					+1 819 912 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/17919972-taylorswift13"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_reasonably_small.jpeg" alt="Taylor Swift" /><i></i>
+						<span class="chart" data-percent="99.722305457411"></span>
+					</div>
+					<h3><span>Taylor Swift</span></h3>
+				</a>
+				<strong>
+					+1 817 086 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/169686021-kanyewest"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/585565077207678977/N_eNSBXi_reasonably_small.jpg" alt="KANYE WEST" /><i></i>
+						<span class="chart" data-percent="90.210060006169"></span>
+					</div>
+					<h3><span>KANYE WEST</span></h3>
+				</a>
+				<strong>
+					+1 643 759 Followers
+				</strong>
+
+			</li>
+			<li>
+				<a href="/statistics/twitter/profiles/detail/15846407-theellenshow"
+				   class="acc-placeholder-img">
+
+					<div class="placeholder-img placeholder-img-134">
+						<img src="http://pbs.twimg.com/profile_images/699273643075850240/hYP6fe4h_reasonably_small.png" alt="Ellen DeGeneres" /><i></i>
+						<span class="chart" data-percent="83.102177322783"></span>
+					</div>
+					<h3><span>Ellen DeGeneres</span></h3>
+				</a>
+				<strong>
+					+1 514 243 Followers
+				</strong>
+
+			</li>
+		</ul>
+</article>
+
+<div class="call-to-action-btn">
+	<div class="vertical-align-middle">
+		<div class="in-vertical-align-middle">
+			<h2>Analyze, Benchmark & Report on every social platform</h2>
+		</div>
+	</div>
+	<a href="/products/analytics" onclick="trackBannerClick('analytics')" class="btn btn-blue" data-gaevent-products="banner_new">
+		Get Insights Now
+		<i class="socialbakers-icons-before" data-icons-before="&#xe613;"></i>
+	</a>
+	<div class="img default">
+	</div>
+</div>
+
+
+	<h2>Twitter Profiles Stats</h2>
+<div class="brand-table-placeholder">
+<table class="brand-table-list" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				1
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/21447363-katyperry" class="acc-placeholder-img" title="KATY PERRY">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/682895129724600321/8dfQK5e__normal.jpg" alt="katyperry" alt="KATY PERRY">
+						<i></i>
+					</div>
+					<i class="item-count">1</i> <h2><span>KATY PERRY (@katyperry)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<div class="table-legend">Followings</div>
+				<span class="table-pie-name-mobile">Followings</span>
+				158
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<div class="table-legend">Followers</div>
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					84&nbsp;029&nbsp;757
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<div class="table-legend show-tooltip" data-tooltip="How likely would people recommend the brand to their friends">Rating<span class="socialbakers-icons-before" data-icons-before="&#xe64d;"></span></div>
+				<strong>
+<div data-page-id="21447363" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr class="odd">
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				2
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/27260086-justinbieber" class="acc-placeholder-img" title="Justin Bieber">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/652596362073272320/Zv6K-clv_normal.jpg" alt="justinbieber" alt="Justin Bieber">
+						<i></i>
+					</div>
+					<i class="item-count">2</i> <h2><span>Justin Bieber (@justinbieber)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				259&nbsp;430
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					76&nbsp;693&nbsp;658
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="27260086" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				3
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/17919972-taylorswift13" class="acc-placeholder-img" title="Taylor Swift">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/505200807503867904/osJXmYRl_normal.jpeg" alt="taylorswift13" alt="Taylor Swift">
+						<i></i>
+					</div>
+					<i class="item-count">3</i> <h2><span>Taylor Swift (@taylorswift13)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				245
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					72&nbsp;463&nbsp;488
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="17919972" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr class="odd">
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				4
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/813286-barackobama" class="acc-placeholder-img" title="Barack Obama">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/451007105391022080/iu1f7brY_normal.png" alt="BarackObama" alt="Barack Obama">
+						<i></i>
+					</div>
+					<i class="item-count">4</i> <h2><span>Barack Obama (@BarackObama)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				637&nbsp;405
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					70&nbsp;803&nbsp;764
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="813286" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				5
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/10228272-youtube" class="acc-placeholder-img" title="YouTube">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/683045838680096768/kfYwGbg7_normal.png" alt="YouTube" alt="YouTube">
+						<i></i>
+					</div>
+					<i class="item-count">5</i> <h2><span>YouTube (@YouTube)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				919
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					60&nbsp;295&nbsp;884
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="10228272" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr class="odd">
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				6
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/79293791-rihanna" class="acc-placeholder-img" title="Rihanna">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/700430556480303104/7BCL6Y1J_normal.jpg" alt="rihanna" alt="Rihanna">
+						<i></i>
+					</div>
+					<i class="item-count">6</i> <h2><span>Rihanna (@rihanna)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				1&nbsp;138
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					56&nbsp;946&nbsp;861
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="79293791" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				7
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/14230524-ladygaga" class="acc-placeholder-img" title="Lady Gaga">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/704429905522483201/KAe6KHhw_normal.jpg" alt="ladygaga" alt="Lady Gaga">
+						<i></i>
+					</div>
+					<i class="item-count">7</i> <h2><span>Lady Gaga (@ladygaga)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				131&nbsp;061
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					56&nbsp;756&nbsp;003
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="14230524" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr class="odd">
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				8
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/15846407-theellenshow" class="acc-placeholder-img" title="Ellen DeGeneres">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/699273643075850240/hYP6fe4h_normal.png" alt="TheEllenShow" alt="Ellen DeGeneres">
+						<i></i>
+					</div>
+					<i class="item-count">8</i> <h2><span>Ellen DeGeneres (@TheEllenShow)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				36&nbsp;510
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					55&nbsp;257&nbsp;211
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="15846407" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				9
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/783214-twitter" class="acc-placeholder-img" title="Twitter">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/666407537084796928/YBGgi9BO_normal.png" alt="twitter" alt="Twitter">
+						<i></i>
+					</div>
+					<i class="item-count">9</i> <h2><span>Twitter (@twitter)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				139
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					53&nbsp;222&nbsp;888
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="783214" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr class="odd">
+		<td class="item-count-td brand-table-first-nr">
+			<div class="item item-count">
+				10
+			</div>
+		</td>
+		<td class="name">
+			<div class="item">
+				<a href="/statistics/twitter/profiles/detail/26565946-jtimberlake" class="acc-placeholder-img" title="Justin Timberlake">
+					<div class="placeholder-img">
+							<img src="http://pbs.twimg.com/profile_images/423976765573197824/H8DOsOPm_normal.jpeg" alt="jtimberlake" alt="Justin Timberlake">
+						<i></i>
+					</div>
+					<i class="item-count">10</i> <h2><span>Justin Timberlake (@jtimberlake)</span></h2>
+				</a>
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followings</span>
+				132
+			</div>
+		</td>
+		<td>
+			<div class="item">
+				<span class="table-pie-name-mobile">Followers</span>
+				<strong>
+					52&nbsp;577&nbsp;173
+				</strong>
+			</div>
+		</td>
+		<td class="item-last brand-table-mobile-remove">
+			<div class="item">
+				<strong>
+<div data-page-id="26565946" data-user-rate-value="" data-sum-rate-value="" class="brandrater active">
+	<div data-lightbox="login-lightbox" title="Ranking is not available. Please, try to rate another page or brand."  class="brandrater-rating delay open-lightbox"><strong data-title-voted="Global rating for this page or brand is: %SCORE%. Rating has been made from %VOTES_COUNT% user ratings." data-title-not-voted="No rating yet. Be the first person to rate it!"></strong></div>
+	<div class="brandrater-panel">
+		<span class="rating-bg"> </span>
+		<span class="rating-bg-active"> </span>
+		<span class="smiley smiley-sad">Worst</span>
+		<ul class="rater-scale">
+				<li data-value="0">0</li>
+				<li data-value="1">1</li>
+				<li data-value="2">2</li>
+				<li data-value="3">3</li>
+				<li data-value="4">4</li>
+				<li data-value="5">5</li>
+				<li data-value="6">6</li>
+				<li data-value="7">7</li>
+				<li data-value="8">8</li>
+				<li data-value="9">9</li>
+				<li data-value="10">10</li>
+		</ul>
+		<span class="smiley smiley-happy">Best</span>
+	</div>
+</div>
+				</strong>
+			</div>
+		</td>
+	</tr>
+	<tr class="replace-with-show-more">
+		<td colspan="5">	<div class="more-center-link">
+		<a rel="next" class="show-more-button btn btn-no-ico notlogged gaevent open-lightbox"
+				href="/statistics/twitter/profiles/page-2/"
+				data-lightbox="form-local-countries"
+				data-gaevent='{"category":"Button","action":"Open Form"}'
+			data-rewrite-url="http://www.socialbakers.com/statistics/twitter/profiles/page-1-2/"
+			data-auto-preload-count="0"
+			data-next-page="2"
+			data-category="Twitter Profiles"
+			data-next-page-url="/statistics/twitter/profiles/page-2/?showMoreList-from=1&amp;do=platformList-renderAjax">
+			Show More Twitter Profiles
+		</a>
+	</div>
+</td>
+	</tr>
+</table>
+</div>
+<script type="text/javascript">
+	var isLoggedIn = false;
+	var userId = null;
+	var apiUrls = {
+		brandsRatesForPageIds: "\/statistics\/twitter\/profiles\/?do=brandraterApi-getBrandsRatesForPageIds",
+		userBrandsRateForPageIds: "\/statistics\/twitter\/profiles\/?do=brandraterApi-getUserBrandsRateForPageIds",
+		userBrandsRateForPageIdPost: "\/statistics\/twitter\/profiles\/?do=brandraterApi-postUserBrandsRateForPageId",
+		paramPrefix: "brandraterApi"
+	};
+
+	require([
+		'load!lib/brandrater/brandrater'
+	], function( initBrandraterForList ){
+		initBrandraterForList( isLoggedIn, userId, apiUrls );
+	});
+</script>
+
+
+
+	<h2>Glossary &amp; Metrics Overview</h2>
+
+	<ul class="four-list article-blue-list glossary-list">
+		<li class="item">
+			<article>
+				<h3 class="following no-icon">Following</h3>
+				<p>The total number of Profiles followed from a specific Twitter Profile</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h3 class="followers no-icon">Followers</h3>
+				<p>The total number of Followers of a specific Twitter Profile</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h3 class="rating no-icon">Rating</h3>
+				<p>How likely a user is to recommend a Page/Profile within his or her network</p>
+			</article>
+		</li>
+	</ul>
+
+	<ul class="half-list inline-list article-list-more">
+		<li class="item">
+			<article>
+				<h2>Current Twitter statistics</h2>
+				<p>
+										Here you can see the <strong>statistics of the top All Profiles accounts
+					for the year 2016</strong>.
+					Take a look at the profiles that have the most ‘Followers’ on Twitter.
+
+						Currently, the Top Twitter Gainer is
+							<a href="/statistics/twitter/profiles/detail/21447363">
+								KATY PERRY</a>.
+
+					If you would like to <strong>monitor a specific Twitter profile</strong>,
+					please use our <a data-gaevent-products="link" href="/products/suite/analytics">Twitter monitoring tool</a>.
+				</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h2>What is a Twitter Account?</h2>
+				<p>
+					A Twitter account is a user profile on Twitter. Users can share their thoughts, photos, news, information, or ideas in 140 characters or less. These profiles are usually public - meaning that everyone has access to what users have Tweeted or Retweeted - but can be made private as well.
+					<span class="hide">
+						Users can Follow your account (this means subscribing to your posts), and you can Follow other users as well. In your Tweets, you have the option of mentioning other users using the @ symbol. You can also use a hashtag (e.g. #Twitter, #Olympics, etc) to increase the likelihood that your tweet will be seen by other users who are searching that particular hashtag. Hashtags are used to generate trends and increase the virality of a topic.
+					</span>
+					<span class="more-right-link">
+						<a href="" class="more" data-expanded="See Less"><span>See More</span></a>
+					</span>
+				</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h2>What is Twitter Monitoring?</h3>
+				<p>
+					Twitter monitoring is the use of Twitter analytics tools like Socialbakers Analytics to monitor the platform both actively and passively. Passive Twitter monitoring can be paying attention to what people say to discover Twitter users’ preferences, hobbies, etc. Active Twitter monitoring is searching for links to specific brands, businesses, media, etc.
+				</p>
+			</article>
+		</li>
+		<li class="item">
+			<article>
+				<h2>What is the Process of Twitter Monitoring?</h2>
+				<p>
+					Twitter monitoring is used for analysis of your Twitter accounts and the competition. You can observe your growing number of Followers, gain valuable insights into current audience characteristics, and harness this data to identify new target audiences for Twitter campaigns.
+					<span class="hide">
+						Moreover, you can view Followers’ statistics in an accommodating dashboard that compares demographics, trends and top interests based on user activity across the Twitter community. You can also filter the data according to different markets, or according to different demographic data.
+					</span>
+					<span class="more-right-link">
+						<a href="" class="more" data-expanded="See Less"><span>See More</span></a>
+					</span>
+				</p>
+			</article>
+		</li>
+	</ul>
+
+	<ul class="half-list-big article-list-more">
+		<li class="item">
+			<article>
+				<h2>Twitter Profiles Monitoring</h2>
+
+				<p>
+						On this page you will find the currently monitored Twitter Accounts. If you didn’t find what you were looking for, try using our search on the left to find a specific one. If you would like to gain valuable insights of these Twitter Accounts or others, please use our
+						<a data-gaevent-products="link" href="/products/analytics">Twitter monitoring tool</a>.
+					<span class="hide">
+						You can arrange the statistics according to the number of ‘Followers’, or according to the number of users they are ‘Following’. Use this information to better understand how your audience engages, assess your Twitter marketing strategies, and further optimize your Tweets. Find your key Followers, monitor engagement, the change of Followers and your Follower/Following ratio. Enhance your Twitter identity, increase engagement rates, and create insightful graphical reports using <a data-gaevent-products="link" href="/products/analytics">Socialbakers Analytics</a>. With these tools you can form the best possible Tweets and receive the largest return on investment.
+					</span>
+
+					<span class="more-right-link">
+						<a href="" class="more" data-expanded="See Less"><span>See More</span></a>
+					</span>
+				</p>
+			</article>
+		</li>
+	</ul>
+<script type="text/javascript">
+$(document).ready(function() {
+	(function(){
+		var changeHandler = function( event ) { $( event.target ).closest( 'form' ).submit() };
+		$("select").not('.disableAutoSubmit').change( changeHandler );
+	})();
+});
+</script>
+
+
+
+
+
+						</section>
+							<i class="aside-hr"></i>
+
+							<i class="aside-list-tw aside-list-hr"></i>
+					
+				</div>
+
+
+
+					<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/bg-next.jpg" alt="" class="img-bg no-fixed">
+
+
+
+
+			</div>
+
+		<!-- 
+			Main Footer
+			===========
+		-->
+		<footer class="footer">
+			
+
+				<div class="footer-info">
+					<div class="in">
+						<ul class="breadcrumb">
+							<!--li><a href="" class="show-tooltip" data-tooltip="Go to Homepage.">Socialbakers Homepage</a></li>
+							<li><a href="" class="act">Subpage</a></li-->
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http:\/\/www.socialbakers.com\/","name":"Socialbakers"}},{"@type":"ListItem","position":2,"item":{"@id":"http:\/\/www.socialbakers.com\/\/statistics\/","name":"Statistics"}},{"@type":"ListItem","position":3,"item":{"@id":"http:\/\/www.socialbakers.com\/\/statistics\/twitter\/","name":"Twitter"}},{"@type":"ListItem","position":4,"item":{"@id":"http:\/\/www.socialbakers.com\/statistics\/twitter\/profiles\/","name":"Profiles"}}]}</script>
+    <li><a href="/">Socialbakers</a></li>
+    <li><a href="/statistics/">Statistics</a></li>
+    <li><a href="/statistics/twitter/">Twitter</a></li>
+    <li><a href="" class="act">Profiles</a></li>
+							
+						</ul>
+
+
+					</div>
+				</div>
+			
+			<div class="footer-menu">
+
+
+<ul class="in">
+	<li class="color-green act">
+		
+		<h2><a href="/statistics/">Statistics</a></h2>
+		<ul>
+	        <li class="fb">
+	            <a href="/statistics/facebook/">Facebook</a>
+	        </li>
+	        <li class="tw act">
+	            <a href="/statistics/twitter/">Twitter</a>
+	        </li>
+	        <li class="gplus">
+	            <a href="/statistics/google-plus/">Google+</a>
+	        </li>
+	        <li class="yt">
+	            <a href="/statistics/youtube/">YouTube</a>
+	        </li>
+	    </ul>
+	</li>
+	<li class="color-blue">
+		
+		<h2><a href="/products/">Products &amp; Solutions</a></h2>
+		<ul>
+			<li >
+				<a href="/products/analytics">Analytics</a>
+			</li>
+						<li >
+				<a href="/products/builder">Builder</a>
+			</li>
+						<li >
+				<a href="/products/executive-dashboard">Executive Dashboard</a>
+			</li>
+		</ul>
+	</li>
+	<li class="color-red">
+		
+		<h2><a href="/blog/">Blog</a></h2>
+		<ul>	
+			<li><a href="/blog/">Latest Stories</a></li>
+		</ul>
+	</li>
+	<li class="color-orange">
+		
+		<h2><a href="/resources/">Social Media Resources</a></h2>
+		<ul>
+			<li >
+				<a href="/resources/reports/">Reports</a>
+			</li>
+
+			
+			
+			<li >
+				<a href="/resources/client-stories/">Client Stories</a>
+			</li>
+
+			<li>
+				<a  href="/resources/wishlist/">WishList</a>
+			</li>
+
+			<li>
+				<a  href="/resources/socially-devoted/">Socially Devoted</a>
+			</li>
+
+			<li>
+				<a  href="/resources/free-tools/">Free Tools</a>
+			</li>
+
+			
+			
+			<li >
+				<a href="/resources/studies/">Studies</a>
+			</li>
+			<li >
+				<a href="/resources/agencies/">Agencies</a>
+			</li>
+			<li >
+				<a href="/resources/release-notes/">Release Notes</a>
+			</li>
+		</ul>
+	</li>
+	<li class="color-pink">
+		
+		<h2><a href="/company/">Company</a></h2>
+		<ul>
+			<li >
+				<a href="/company/about/meet-socialbakers">Meet Socialbakers</a>
+			</li>
+			<li >
+				<a href="/company/about/why-socialbakers">Why Socialbakers?</a>
+			</li>
+			<li >
+				<a href="/company/about/leadership">Leadership</a>
+			</li>
+			<li >
+				<a href="/company/media-and-press">Media &amp; Press</a>
+			</li>
+			<li >
+				<a href="/company/careers">Careers</a>
+			</li>
+			<li >
+				<a href="/company/contact-us">Contact Us</a>
+			</li>
+		</ul>
+	</li>
+</ul>				<i></i>
+			</div>
+			<div class="footer-in"><div class="in">
+				<a onclick="_gaq.push(['_trackEvent', 'homepage - logo', this.href, location.href]);" href="/"><h1>Socialbakers</h1></a>
+				<div class="pull-right">
+					<ul>
+						<li>
+							<a href="https://www.facebook.com/socialbakers" target="_blank" class="fb">facebook <i></i></a>
+						</li>
+						<li>
+							<a href="https://twitter.com/socialbakers/" target="_blank" class="tw">twitter <i></i></a>
+						</li>
+						<li>
+							<a href="https://www.youtube.com/user/socialbakers" target="_blank" class="yt">youtube <i></i></a>
+						</li>
+						<li>
+							<a href="https://instagram.com/socialbakers/" target="_blank" class="insta">instagram <i></i></a>
+						</li>
+						<li>
+							<a href="https://www.linkedin.com/company/socialbakers-com" target="_blank" class="linked">linkedin <i></i></a>
+						</li>
+						<li>
+							<a href="https://plus.google.com/115396124004851082723/" target="_blank" class="gplus">google+ <i></i></a>
+						</li>
+					</ul>
+					<p>
+						Socialbakers © 2016 All Rights Reserved
+						<span class="hr">&#x2502;</span>
+						<a href="/online-terms-and-conditions">Terms &amp; Conditions</a>
+						<span class="hr">&#x2502;</span>
+						<a href="/privacy-policy">Privacy Policy</a>
+						<span class="hr">&#x2502;</span>
+						<a href="/legal">Legal</a>
+						<span class="hr">&#x2502;</span>
+						<a href="/cookies">Cookies</a>
+						<span class="hr">&#x2502;</span>
+						<a href="http://status.socialbakers.com/" target="_blank" data-gaevent-products="footer-bar">Status Overview</a>
+					</p>
+				</div>
+			</div></div>
+		</footer>
+
+		<div class="mobile-nav">
+			<div class="in-nav">
+									<form action="/search" class="searched">
+						<label for="searchbox" class="mobile-search">
+							<input id="mobile-searchbox" name="query" placeholder="Search ..." autocomplete="off">
+						</label>
+					</form>
+
+
+
+<ul class="first-level">
+	<li class="color-green act">
+		
+		<a href="/statistics/">Statistics<i class="socialbakers-icons-before" data-icons-before="&#xe610;"></i></a>
+		<ul>
+	        <li class="fb">
+	            <a href="/statistics/facebook/">Facebook</a>
+	        </li>
+	        <li class="tw act">
+	            <a href="/statistics/twitter/">Twitter</a>
+	        </li>
+	        <li class="gplus">
+	            <a href="/statistics/google-plus/">Google+</a>
+	        </li>
+	        <li class="yt">
+	            <a href="/statistics/youtube/">YouTube</a>
+	        </li>
+	    </ul>
+	</li>
+	<li class="color-blue">
+		
+		<a href="/products/">Products &amp; Solutions<i class="socialbakers-icons-before" data-icons-before="&#xe610;"></i></a>
+		<ul>
+			<li >
+				<a href="/products/analytics">Analytics</a>
+			</li>
+						<li >
+				<a href="/products/builder">Builder</a>
+			</li>
+						<li >
+				<a href="/products/executive-dashboard">Executive Dashboard</a>
+			</li>
+		</ul>
+	</li>
+	<li class="color-red">
+		
+		<a href="/blog/">Blog</a>
+	</li>
+	<li class="color-orange">
+		
+		<a href="/resources/">Social Media Resources<i class="socialbakers-icons-before" data-icons-before="&#xe610;"></i></a>
+		<ul>
+			<li >
+				<a href="/resources/reports/">Reports</a>
+			</li>
+
+			
+			
+			<li >
+				<a href="/resources/client-stories/">Client Stories</a>
+			</li>
+			<li>
+				<a href="//www.socialbakers.com/events/" target="_blank">Events</a>
+			</li>
+
+			<li>
+				<a  href="/resources/wishlist/">WishList</a>
+			</li>
+
+			<li>
+				<a  href="/resources/socially-devoted/">Socially Devoted</a>
+			</li>
+			<li>
+				<a href="//www.socialbakers.com/storytellers/" target="_blank">Smart Storytellers</a>
+			</li>
+
+			<li>
+				<a  href="/resources/free-tools/">Free Tools</a>
+			</li>
+
+			
+			
+			<li >
+				<a href="/resources/studies/">Studies</a>
+			</li>
+			<li>
+				<a href="//www.socialbakers.com/elections-2015/" target="_blank">Elections</a>
+			</li>
+			<li >
+				<a href="/resources/agencies/">Agencies</a>
+			</li>
+			<li >
+				<a href="/resources/release-notes/">Release Notes</a>
+			</li>
+		</ul>
+	</li>
+	<li class="color-pink">
+		
+		<a href="/company/">Company<i class="socialbakers-icons-before" data-icons-before="&#xe610;"></i></a>
+		<ul>
+			<li >
+				<a href="/company/about/meet-socialbakers">Meet Socialbakers</a>
+			</li>
+			<li >
+				<a href="/company/about/why-socialbakers">Why Socialbakers?</a>
+			</li>
+			<li >
+				<a href="/company/about/leadership">Leadership</a>
+			</li>
+			<li >
+				<a href="/company/media-and-press">Media &amp; Press</a>
+			</li>
+			<li >
+				<a href="/company/careers">Careers</a>
+			</li>
+			<li >
+				<a href="/company/contact-us">Contact Us</a>
+			</li>
+		</ul>
+	</li>
+</ul>
+							</div>
+		</div>
+
+		<div class="panel-overlay"></div>
+
+		<div class="lightbox-overlay"></div>
+
+			<div class="login-lightbox" data-content="default">
+				<a href="" class="close"></a>
+				<div class="flipper-panel act">
+					<article class="flipper-panel-front about-login-thanks">
+						<h1>Thank you!</h1>
+						<p>Please check your information and fill in the missing details for <strong>personalised content</strong> and even <strong>better browsing experience</strong>.</p>
+						<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-thanks-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+					</article>
+					<article class="flipper-panel-back about-login-fb">
+						<a href="/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ftwitter%2Fprofiles%2F&amp;ref=www-fe-modal" class="btn fb btn-flip signin"><i></i> Sign In</a>
+					</article>
+					<article class="about-login-lightbox ">
+						<h1>Join the marketing experts &amp; get priceless insights</h1>
+						<ul>
+							<li>explore the <strong>latest trends</strong><br>in social media</li>
+							<li>get <strong>tips for improving</strong><br>your social media performance</li>
+							<li>download <strong>exclusive studies</strong>, <strong>reports</strong> and <strong>whitepapers</strong></li>
+						</ul>
+						<div class="video">
+							<video id="video" loop autoplay width="400" height="400">
+								<source src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/video/login-lightbox.mp4" type='video/mp4'>
+							</video>
+							<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-login-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+						</div>
+					</article>
+				</div>
+			</div>
+			<div class="lightbox login-lightbox-redirect">
+				<a href="" class="close"></a>
+				<div class="flipper-panel act">
+					<article class="flipper-panel-front about-login-thanks">
+						<h1>Thank you!</h1>
+						<p>Please check your information and fill in the missing details for <strong>personalised content</strong> and even <strong>better browsing experience</strong>.</p>
+						<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-thanks-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+					</article>
+					<article class="flipper-panel-back about-login-fb">
+						<a href="/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ftwitter%2Fprofiles%2F&amp;ref=www-fe-modal" class="btn fb btn-flip signin"><i></i> Sign In</a>
+					</article>
+					<article class="about-login-lightbox ">
+						<h1>Join the marketing experts &amp; get priceless insights</h1>
+						<ul>
+							<li>explore the <strong>latest trends</strong><br>in social media</li>
+							<li>get <strong>tips for improving</strong><br>your social media performance</li>
+							<li>download <strong>exclusive studies</strong>, <strong>reports</strong> and <strong>whitepapers</strong></li>
+						</ul>
+						<div class="video">
+							<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-login-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+						</div>
+					</article>
+				</div>
+			</div>
+
+			<div class="forced-login-lightbox">
+				<div class="flipper-panel act">
+					<article class="flipper-panel-back about-login-fb">
+						<a href="/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ftwitter%2Fprofiles%2F&amp;ref=www-fe-modal" class="btn fb btn-flip signin"><i></i> Sign In</a>
+						<a href="" class="forced-login-continue">Browse Socialbakers.com without sign in</a>
+					</article>
+					<article class="about-login-thanks">
+						<h1>Sign in for more insights!</h1>
+						<ul>
+							<li>See more as a registered user</li>
+							<li>Explore brand ranks ordered by country fans</li>
+							<li>Follow local trends</li>
+						</ul>
+						<div class="video">
+							<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-thanks-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+						</div>
+					</article>
+				</div>
+			</div>
+		<div class="premium-login-lightbox">
+			<a href="" class="close"></a>
+			<span class="premium-tag">Premium content</span>
+			<div class="flipper-panel act">
+				<article class="flipper-panel-back about-login-fb">
+						<a href="/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ftwitter%2Fprofiles%2F&amp;ref=www-fe-modal" class="btn fb btn-flip signin"><i></i> Sign In</a>
+						<a href="" class="premium-login-continue">Browse Socialbakers.com without sign in</a>
+				</article>
+				<article class="about-login-premium">
+					<h1>Subscribe to<br> Socialbakers Premium!</h1>
+					<h2>Just <strong>$50</strong> / Month</h2>
+					<p>For just $50/month, you’ll be the best-prepared marketer around. With <strong>Socialbakers Premium Reports</strong>, you get <strong>exclusive access to deep breakdowns</strong> of top content in your region, 2 weeks earlier than anyone else.</p>
+					<div class="video">
+						<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-premium-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+					</div>
+				</article>
+			</div>
+		</div>
+		
+
+
+		
+		
+		
+		
+		
+		
+
+		
+		<div id="marketo-login-meta" data-redirect-url="http://www.socialbakers.com/statistics/twitter/profiles/"></div>
+
+
+	<div class="lightbox form-local-countries forced-login-lightbox">
+		<div class="flipper-panel act">
+			<article class="flipper-panel-back about-unlock-form">
+				<a href="https://account.socialbakers.com/login/facebook?product=12&cb=http://www.socialbakers.com/statistics/twitter/profiles/" class="btn-fb-connect login fb-login popup-login-link quick-fb-login">Sign In with Facebook</a>
+
+				<span class="hr"><i>or</i></span>
+
+<form id="mktoForm_1843"></form>
+<script type="text/javascript">
+(function(){
+	var marketoFormId = "1843";
+	require(['load!lib/util/docCookies', 'load!lib/marketo/marketo-form'], function (docCookies, marketoFormUtil) {
+		marketoFormUtil.doCommonLoadForm("//app-lon03.marketo.com", "051-PVI-353", marketoFormId, function(form) {
+			docCookies.removeItem("lc_cs_fm");
+			var expireAt = new Date();
+			expireAt.setMonth(expireAt.getMonth()+1);
+			docCookies.setItem("lc_cs_fm", "t", expireAt, '/', '.socialbakers.com');
+
+			var redirectUrl = $( '#marketo-login-meta' ).attr( 'data-redirect-url' );
+			if ( redirectUrl != 'undefined' ) {
+				window.location.href = redirectUrl;
+			} else {
+				location.reload(true);
+			}
+		}, false);
+	});
+})();
+</script>
+			</article>
+
+			<article class="about-login-lightbox">
+				<h1>Unlock Advanced Stats</h1>
+				<ul>
+					<li>Compare up to 3 social media profiles <strong>for free</strong></li>
+					<li>View detailed fan stats for a specific country</li>
+					<li>Get the latest data, powerful insights, and tips on social media</li>
+				</ul>
+				<p class="smaller"><a href="/privacy-policy" target="_blank">Privacy policy</a></p>
+				<div class="video">
+					<video id="video" loop autoplay width="400" height="400">
+						<source src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/video/login-lightbox.mp4" type='video/mp4'>
+					</video>
+					<img src="http://cdn.socialbakers.com/www/static/build.3271935747/www/media/img/about-login-lightbox-img.jpg" alt="" class="img-bg no-fixed">
+				</div>
+			</article>
+		</div>
+	</div>
+
+
+		<i class="tooltip"></i>
+
+		<!--sharebox URL-->
+		<div id="sharebox-apiurl" data="http://api-sbks.socialbakers.com"></div>
+
+
+		<div id="front-suggester" class="lightbox lightbox-add-page">
+			<a href="" class="close"></a>
+			<div class="in-lightbox-add-page suggester-wrapper">
+				<div class="loader small" style="display: none;"></div>
+<section class="not-connected">
+	<header>
+		<h1>Sign In</h1>
+	</header>
+	<p>The content on this page is available only to signed-in users. Simply sign in to gain access to all materials in the Socialbakers Resources. Once signed-in, you will then be able to access and download various types of studies, reports, articles and other types of content for free.</p>
+	<p class="with-login">To show this content click on the <a class="login fb-login popup-login-link" href="/sign/login?backlink=http%3A%2F%2Fwww.socialbakers.com%2Fstatistics%2Ftwitter%2Fprofiles%2F&amp;ref=www-fe-modal">Sign In</a></p>
+</section>			</div>
+		</div>
+
+	<div class="page-action-panel">
+		<div class="in">
+			<p>Registration open for Engage Prague 2016</p>
+			<a href="http://www.engage2016.com/" class="btn" target="_blank" onclick="dataLayer.push({'event': 'ga.event', 'eventCategory': 'Banner', 'eventAction': 'Popup', 'eventLabel': 'Engage2016'});">Get your ticket now</a>
+		</div>
+		<a href="" class="close-action-panel"></a>
+	</div>
+	<script type="text/javascript">
+	(function(){
+		require(['load!lib/util/docCookies'], function ( docCookies ) {
+			var cookieName = 'hide-action-panel';
+			if ( docCookies.getItem( cookieName ) == null ) {
+				var expireAt = new Date();
+				expireAt.setMinutes(expireAt.getMinutes()+10);
+				docCookies.setItem( cookieName, '1', expireAt, '/', '.socialbakers.com');
+			}
+		});
+	})();
+	</script>
+
+	</div>
+</body>
+</html>
